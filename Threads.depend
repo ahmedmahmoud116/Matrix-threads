@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1572610924 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Threads/Threads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+
+1572625944 
+
+1572621560 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Threads/Threads/test.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1572621560 >
+
+1572629410 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Threads/Threads/merge.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1572629410 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Threads/Threads/4572-sort.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1572629724 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Threads/Threads/4572-matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+
+1572631628 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Threads/MatrixThread/4572-matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+
+1572621560 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Threads/MatrixThread/test.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1572625944 source:d:\local disk(e)\college projects\os_threads\matrixthread\matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+
+1572625944 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Threads/MatrixThread/matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+
